@@ -84,12 +84,12 @@
         {
             "mimeType": "image/png",
             "name": "T_vcbjfbu_2K_N",
-            "uri": "Textures/T_vcbjfbu_2K_N.png"
+            "uri": "T_vcbjfbu_2K_N.png"
         },
         {
             "mimeType": "image/png",
             "name": "T_vcbjfbu_2K_ORM",
-            "uri": "Textures/T_vcbjfbu_2K_ORM.png",
+            "uri": "T_vcbjfbu_2K_ORM.png",
             "extras": {
                 "compression": "mask"
             }
@@ -97,7 +97,7 @@
         {
             "mimeType": "image/png",
             "name": "T_vcbjfbu_2K_B",
-            "uri": "Textures/T_vcbjfbu_2K_B.png"
+            "uri": "T_vcbjfbu_2K_B.png"
         }
     ],
     "accessors": [
